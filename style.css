@@ -21,7 +21,7 @@
 .head{
     padding: 1.5%;
     font-family: 'Poppins', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
 
 }
 .icon{
@@ -33,7 +33,7 @@
     text-align: left;
     
     font-family: 'Poppins', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
 
 }
 p{
@@ -72,9 +72,10 @@ p{
     padding: 2%;
     text-align: center;
     font-family: 'Barlow Condensed', sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 600;
     align-items: center;
+    color: black;
 }
 
 .heading{
@@ -166,13 +167,14 @@ border-color: rgb(194, 191, 191);
     padding: 2%;
     color: #c0c0be;
     font-family: 'Poppins', sans-serif;
+    font-size: 15px;
 
 }
 
 span{
     color: black;
     font-family: 'Rajdhani', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
 }
 
@@ -204,7 +206,7 @@ img{
 .search-for{
     padding: 1%;
     text-align: left;
-    font-size: 20px;
+    font-size: 15px;
     background-color: #f8f9fb;
     width: 15vw;
     font-family: 'Poppins', sans-serif;
